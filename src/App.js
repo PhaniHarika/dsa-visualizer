@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 
   const algorithms = {
   bubble: { name: "Bubble Sort", complexity: "O(n²)", space: "O(1)", stable: "Yes" },
@@ -175,7 +175,8 @@ async function dfs(start, setVisited, setQueue, delay) {
     setFound(null);
   };
 
-  useEffect(() => { reset(); }, [arraySize]);
+  useEffect(() => { reset(); // eslint-disable-next-line
+}, [arraySize]);
 
   const run = async () => {
     setRunning(true);
