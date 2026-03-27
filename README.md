@@ -27,4 +27,4 @@ npm start
 
 ## 👩‍💻 Built By
 **Phani Harika Soma** — B.Tech CSE-DS, Sridevi Women's Engineering College  
-[LinkedIn](https://linkedin.com/in/phaniharika-soma) • [GitHub](https://github.com/PhaniHarika)
+[LinkedIn](https://www.linkedin.com/in/phaniharika-soma-551a32326/) • [GitHub](https://github.com/PhaniHarika)
